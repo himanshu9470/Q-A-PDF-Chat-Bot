@@ -1,0 +1,7 @@
+gradio
+spacy
+nltk
+transformers
+torch
+sentencepiece
+python-dotenv
