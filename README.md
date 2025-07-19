@@ -1,7 +1,3 @@
-Here is a `README.md` file for your **PDF Question-Answering Chatbot using Gradio and Transformers**, with your GitHub repo link included:
-
----
-
 ````markdown
 # 📄 PDF Question Answering Chatbot
 
